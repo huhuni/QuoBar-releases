@@ -1,6 +1,6 @@
 {
-  "latestVersion": "0.1.0-beta.1",
-  "downloadURL": "https://github.com/huhuni/QuoBar-releases/releases/download/v0.1.0-beta.1/QuoBar-macOS-v0.1.0-beta.1.zip",
-  "releaseNotesURL": "https://github.com/huhuni/QuoBar-releases/releases/tag/v0.1.0-beta.1",
-  "notes": "Initial macOS beta release. Windows asset will be added later."
+  "latestVersion": "0.1.0-beta.2",
+  "downloadURL": "https://github.com/huhuni/QuoBar-releases/releases/download/v0.1.0-beta.2/QuoBar-windows-x64.exe",
+  "releaseNotesURL": "https://github.com/huhuni/QuoBar-releases/releases/tag/v0.1.0-beta.2",
+  "notes": "Windows beta release built from private source commit huhuni/QuoBar@19fde81. This artifact is unsigned and may be blocked by Smart App Control."
 }
